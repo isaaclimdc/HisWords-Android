@@ -1,0 +1,35 @@
+#!/bin/bash
+
+function THROW_ERROR() {
+    echo -e "Oops, something went wrong!\n\nUse: ./cbib <BOOK> <CHAPT> [<VERSE>]\nE.g.: ./cbib 2John 1   or   ./cbib Jeremiah 29 11\n"
+    exit
+}
+
+if [ -z $1 ] || [ -z $2 ]
+then
+    THROW_ERROR
+else
+    BOOK=$1
+    if [ ! -z $2 ]
+    then
+        CHAPT=$2
+        if [ ! -z $3 ]
+        then
+            VERSE=$3
+        else
+            VERSE=""
+        fi
+    else
+        CHAPT=""
+        VERSE=""
+    fi
+fi
+
+RES=$(curl -s "http://www.esvapi.org/v2/rest/passageQuery?key=IP&output-format=plain-text&include-footnotes=false&passage=$BOOK+$CHAPT+$VERSE")
+
+if [[ $RES = *"ERROR"* ]]
+then
+    THROW_ERROR
+else
+    echo -e "$RES\n" | less
+fi
