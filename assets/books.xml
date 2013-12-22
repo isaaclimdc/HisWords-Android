@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<books>
 	<book>
 		<name>Genesis</name>
 		<numChapts>50</numChapts>
@@ -396,4 +395,3 @@
 		<synopsis>This last book of the Bible identifies itself as &quot;the revelation of Jesus Christ&quot;, and its author is designated &quot;his servant John&quot; who was exiled to the Greek island of Patmos because of his faith. Traditionally, John is identified with the author of the Fourth Gospel. Addressed to seven historical churches in Asia Minor, the Book of Revelation was written to warn against spiritual indifference and to elicit courage under persecution. Because of the extensive use of symbolism and picturesque imagery, its interpretation has posed many problem for the student of the Bible. While recognizing the historical situation (Roman persecution) that elicited this writing, many interpreters look upon it as a prophecy depicting events that were to take place at the end of the age. The ultimate victory of Christ is the dominant theme of this book.</synopsis>
 		<isOldTestament>false</isOldTestament>
 	</book>
-</books>
