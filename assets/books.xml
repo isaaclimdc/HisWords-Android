@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book>
+		<name>Genesis</name>
+		<numChapts>50</numChapts>
+		<synopsis>The word &quot;genesis&quot; signifies &quot;generation&quot; or &quot;origin&quot; and comes from the Greek translation of Genesis 2:4. It is an appropriate title for the first book of the Bible, which contains the record of the origin of the universe, the human race, family life, nations, sin redemption, etc. The first 11 chapters, which deal with primeval or pre-Patriarchal times, present the antecedents of Hebrew history from Adam to Abraham. The remaining chapters (12 - 50) are concerned with God’s dealings with the Patriarchs Abraham, Isaac, and Jacob, and Jacob’s son Joseph, all &quot;fathers&quot; of the people whom God has chosen to carry out His plan for the redemption of mankind. The book closes with these &quot;Chosen People&quot; in Egypt.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Exodus</name>
+		<numChapts>40</numChapts>
+		<synopsis>The name means &quot;going out&quot; or departure&quot;. While it refers to one of the most important events of the book, the Exodus of the Israelites from Egypt, other highly significant events are also found here, such as the oppression of the Chosen People in Egypt, the flight and call of Moses, and God’s covenant with the nation Israel at Sinai - an experience climaxed by His giving of the moral law (Ten Commandments) through Moses to the people. A code of secular laws is also included, and the latter part of the book contains an elaborate description of the sacred Ark of the Covenant and its ten (tabernacle), God’s place of dwelling among His people.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Leviticus</name>
+		<numChapts>27</numChapts>
+		<synopsis>This book was so named because it treats of laws of service and worship of special importance to the Tribe of Levi. It has been aptly called &quot;the Handbook of the Priests&quot;. Many basic precepts of the New Testament are foreshadowed in this book, such as the seriousness of sin in God’s sight, the necessity of atonement for sin, the holiness of God, and the necessity of a mediator between God and man.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Numbers</name>
+		<numChapts>36</numChapts>
+		<synopsis>The name of this book originated from the two numberings of the people related in it: the first at Sinai in the second year of the Exodus and another on the plains of Moab opposite Jericho in the 40th year. A better title is the one give by the Hebrew themselves, Bemidhbar ( &quot;In the Wilderness&quot;), for it describes the locale of the major events of the book. In all these events, the writer sees the guiding hand of God, sustaining, delivering, and keeping covenant with His people, as He prepares them for entrance into the land promised first to Abraham (Gen. 12:1ff).</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Deuteronomy</name>
+		<numChapts>34</numChapts>
+		<synopsis>The final book of the Pentateuch derives its English name from the Greek work deuteronomion, meaning the &quot;second law&quot;, or the &quot;law repeated&quot;. Deuteronomy is essentially Moses’ farewell address(es) to a new generation in which he summons them to hear the law of God, to be instructed in the application of its principles to the new circumstances awaiting them, and to renew intelligently the covenant God had made with their fathers - a covenant that must be faithfully observed as the condition of God’s blessings upon them in the Promised Land.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Joshua</name>
+		<numChapts>24</numChapts>
+		<synopsis>This book serves as the connecting link between the Pentateuch and the later historical books; it name is derived from the principal character, Joshua. Chapters 1 to 23 describe the conquest of the land and it division among the tribes of Israel. In the final chapters (23-24), Joshua, somewhat after the fashion of Moses, exhorts the people in a series of farewell addresses &quot;to keep and to do all that is written in the book of the law of Moses,&quot; and solemnly challenges them to the renewal of their covenant commitment to God.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Judges</name>
+		<numChapts>21</numChapts>
+		<synopsis>Named after the &quot;Judges of Israel,&quot; the heroic leaders whose deeds it records, this book covers a period of time from the death of Joshua to the birth of Samuel, an era often called &quot;the dark ages&quot; of Hebrew history. Here is a story, on the human side, of disobedience and disaster, and on the divine side, of direction and deliverance. Of the 13 judges named, only 3 are well known: Deborah, Gideon, and Samson.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Ruth</name>
+		<numChapts>4</numChapts>
+		<synopsis>The Book of Ruth offers a striking contrast to the Book of Judges, but its story is associated with the same period. In Judges, national sin and corruption portray a dark picture. The story of Ruth the Moabitess and her loyalty and devotion to Naomi, her Hebrew mother-in-law, presents the reader with a picture of the nobler side of Hebrew life in the days of the judges.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>1 Samuel</name>
+		<numChapts>31</numChapts>
+		<synopsis>1 and 2 Samuel: These books were named after Samuel, not only because he is the principal figure in the first part, but also because he anointed the two other principal characters, Saul and David. Originally a single book which was divided when translated into Greek, the books of Samuel cover a period of time in Israel’s history from the birth of Samuel to the close of the reign of David. First Samuel presents the transition from Israel’s judges to the monarchy. Second Samuel deals almost exclusively with the history of David and presents a vivid picture of the theocratic monarchy in which the king represents God’s rule over the people.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>2 Samuel</name>
+		<numChapts>24</numChapts>
+		<synopsis>1 and 2 Samuel: These books were named after Samuel, not only because he is the principal figure in the first part, but also because he anointed the two other principal characters, Saul and David. Originally a single book which was divided when translated into Greek, the books of Samuel cover a period of time in Israel’s history from the birth of Samuel to the close of the reign of David. First Samuel presents the transition from Israel’s judges to the monarchy. Second Samuel deals almost exclusively with the history of David and presents a vivid picture of the theocratic monarchy in which the king represents God’s rule over the people.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>1 Kings</name>
+		<numChapts>22</numChapts>
+		<synopsis>1 and 2 Kings: These books are the sequel to I and II Samuel and should be read as a continuation of the history of the Hebrew nation contained in the former work. Originally one book, I and II kings relate the history of Israel form the last days of David to the destruction of the northern kingdom, Israel, in 721 B.C., and to the fall of the southern kingdom, Judah, in 586 B.C. This is the period of Israel’s glory, division, decline, and fall.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>2 Kings</name>
+		<numChapts>25</numChapts>
+		<synopsis>1 and 2 Kings: These books are the sequel to I and II Samuel and should be read as a continuation of the history of the Hebrew nation contained in the former work. Originally one book, I and II kings relate the history of Israel form the last days of David to the destruction of the northern kingdom, Israel, in 721 B.C., and to the fall of the southern kingdom, Judah, in 586 B.C. This is the period of Israel’s glory, division, decline, and fall.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>1 Chronicles</name>
+		<numChapts>29</numChapts>
+		<synopsis>1 and 2 Chronicles: In the Hebrew Canon these books formed a single volume called &quot;Things of the days&quot; (i.e., annals). The translators of the Greek Septuagint Version gave them the title, Paraleipomena, meaning &quot;things left over&quot;, implying their use as a supplement to Samuel and Kings. Jerome (c. A.D. 340-420) called them &quot;a chronicle of the whole and sacred history&quot; from Adam to Cyrus (538 B.C.), hence their English name. Actually, Chronicles is a summary of Hebrew history that duplicates much of Samuel and Kings.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>2 Chronicles</name>
+		<numChapts>36</numChapts>
+		<synopsis>1 and 2 Chronicles: In the Hebrew Canon these books formed a single volume called &quot;Things of the days&quot; (i.e., annals). The translators of the Greek Septuagint Version gave them the title, Paraleipomena, meaning &quot;things left over&quot;, implying their use as a supplement to Samuel and Kings. Jerome (c. A.D. 340-420) called them &quot;a chronicle of the whole and sacred history&quot; from Adam to Cyrus (538 B.C.), hence their English name. Actually, Chronicles is a summary of Hebrew history that duplicates much of Samuel and Kings.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Ezra</name>
+		<numChapts>10</numChapts>
+		<synopsis>Ezra and Nehemiah: Written originally as one book, these two books describe the return of the Jewish exiles after more than a half-century of bondage in Babylon, and the subsequent restoration of Jerusalem, its Temple and it walls. Ezra and Nehemiah are of special importance, since they contain nearly all of the direct information known of the post-Exilic period of Hebrew history.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Nehemiah</name>
+		<numChapts>13</numChapts>
+		<synopsis>Ezra and Nehemiah: Written originally as one book, these two books describe the return of the Jewish exiles after more than a half-century of bondage in Babylon, and the subsequent restoration of Jerusalem, its Temple and it walls. Ezra and Nehemiah are of special importance, since they contain nearly all of the direct information known of the post-Exilic period of Hebrew history.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Esther</name>
+		<numChapts>10</numChapts>
+		<synopsis>The Book of Esther, in the form of a short story similar to the Book of Ruth, has its setting in the palace of Shushan, or Susa, one of the three capitals of the Persian Empire. The story gives us a vivid picture of the Jews in exile, of the hostility of their non-Jewish enemies in Persia, and of how Esther became the queen of Ahasuerus (Xerxes), subsequently risking her life in order to save her people, the Jews, from total destruction. God’s providential care of His people is magnified throughout, though the word &quot;God&quot; never appears in the book.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Job</name>
+		<numChapts>42</numChapts>>
+		<synopsis>So named from Job, its chief character, the book deals with an ageless question, one that is puzzling to every generation - the problem of human suffering, particularly the affliction of the righteous. The reader is given an account of the sufferings of the pious Patriarch Job, of the argument carried on between Job and his friends as to the cause of his sufferings, and finally, of the solution to his difficulty,. The book’s principal aim is to refute the popular view that all suffering is the result of sin in the life of the sufferer.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Psalm</name>
+		<numChapts>150</numChapts>
+		<synopsis>A collection of 150 psalms, who Hebrew name is &quot;The Book of Praise&quot;. Authors of individual psalms include David, Solomon, Moses, Asaph, and others who are anonymous. The variety and unity of Psalms have given this book a unique place in the devotional life of the individual and the Church. Almost every aspect of man’s relation to God is depicted in these poems: simple trust, the sense of sin, appeals to a higher power in time of trouble, and the conviction that the world is in the hands of a loving God.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Proverbs</name>
+		<numChapts>31</numChapts>
+		<synopsis>This book is a compendium of proverb collections. Although Solomon inspired the development of the book, its entire content did not derive from him. A proverb is a short, pithy saying with practical implications. The ones included here cover a variety of subjects, for example, chastity, control of the tongue, laziness, knowledge, relations with others, justice. Perhaps above everything else in Proverbs there is the reiterated assertion that the source of true wisdom is &quot;the fear of the Lord&quot;.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Ecclesiastes</name>
+		<numChapts>12</numChapts>
+		<synopsis>In English, the title means &quot;Preacher&quot;. Traditionally held to have been written by Solomon, this book is now almost universally recognized as about him rather than by him. The author’s purpose is to prove the vanity of everything &quot;under the sun&quot;. This truth is first announced a fact, then proved from the &quot;Preacher’s&quot; experience and observations. Finally, the author shows that the fullness of life is found only in the recognition of things &quot;above the sun&quot;, things spiritual as well as material.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Song of Solomon</name>
+		<numChapts>8</numChapts>
+		<synopsis>This book, the only one in the Bible that has love for its sole theme, is a collection or cycle of marriage songs. Again, as with Ecclesiastes, the composition is about Solomon, and not by him. The Song is didactic and moral in its purpose, and has traditionally been interpreted as showing God’s love for His Chosen People and Christ’s love for His Bride, the Church.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Isaiah</name>
+		<numChapts>66</numChapts>
+		<synopsis>This book, as is true of all the prophetical books, derives its name from the prophet whose messages it records. The unity of Isaiah, a problem related to authorship and contents, has been the subject of much debate. The message of the book is twofold: judgment upon Judah for her sins (1-39), and comfort and hope for an exiled people (40-66). In these messages of encouragement are found some of the most graphic portrayals of the Messiah in the Old Testament.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Jeremiah</name>
+		<numChapts>52</numChapts>
+		<synopsis>Jeremiah was God’s spokesman during the decline and fall of the southern kingdom, Judah. Among the Prophets not one had a more difficult task than that of standing alone for God in the midst of the apostasy of his own people, and not one who bares his soul to his reader as does Jeremiah. Although Jeremiah announced the coming destruction of Judah, he looked beyond this judgement to a day when religion, no longer national, would be individual and spiritual. This new kind of religion would result from God’s &quot;new covenant&quot; with His people.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Lamentations</name>
+		<numChapts>5</numChapts>
+		<synopsis>Entitled in most English versions The Lamentations of Jeremiah, this book is placed immediately after Jeremiah in the Septuagint, Vulgate and English Bible. In the Hebrew text it is found among the &quot;Writings&quot;. In spite of the ancient tradition that Jeremiah was the author, present scholarship is reluctant to accept this view. The book is composed of five poems, lamenting the siege and destruction of Jerusalem (586 B.C.). The poet also makes sincere confession of sin on behalf of the people and leaders, acknowledges complete submission to the will of God, and finally prays that God will once again smile upon His people and restore them to their homeland.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Ezekiel</name>
+		<numChapts>48</numChapts>
+		<synopsis>Ezekiel was carried into exile in Babylon, where he received his call and exercised his prophetic ministry. His dual role of prophet-priest and his position as &quot;watchman&quot; over his people make Ezekiel unique among the prophets and may account for the uniqueness of his message and his methods of delivery. The book contains 48 chapters, divided at the halfway point by the fall of Jerusalem. Ezekiel’s prophecies before this event are chiefly messages of condemnation upon Judah for her sin; following the city’s fall, the prophet speaks to helpless people of the hope and certainty of restoration to their homeland and of worship again in the Temple.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Daniel</name>
+		<numChapts>12</numChapts>
+		<synopsis>Traditionally considered as the work of the Prophet Daniel in exile in Babylon during the 6th century B.C., many modern scholars classify the book as an &quot;apocalypse&quot; that was the product of a pious Jew living under the persecution of Antiochus Epiphanes (175-164 B.C.). In a series of events and visions, the author presents a view of history in which God rules and prevails over men and nations to achieve ultimate victory for the &quot;saints&quot; of God.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Hosea</name>
+		<numChapts>14</numChapts>
+		<synopsis>Sometimes called the &quot;Prophet of Divine Love,&quot; Hosea was a native of Israel and was called to be God’s spokesman during that kingdom’s darkest hour. The apostasy of his own people was enough to break Hosea’s heart, but he also bore a heavy cross in his own life - his wife had proved unfaithful. In this bitter experience Hosea came to fathom God’s love for his erring children and pleads with his people to repent and avail themselves of God’s divine compassion and a love that will not let Israel go.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Joel</name>
+		<numChapts>3</numChapts>
+		<synopsis>Traditionally called the &quot;Prophet of Pentecost,&quot; since his prophecy of the outpouring of the Spirit (2:28ff.) is quoted by Peter (Acts 2:16) as being fulfilled at Pentecost, Joel was the kind of man who could see the eternal in the temporal. The occasion of his message was a devastating locust plague, which he interpreted as foreboding the Day of the Lord when God would act directly to punish His people for their sins. Joel calls upon the people of Judah to repent, promising that repentance will bring God’s blessings, material and spiritual.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Amos</name>
+		<numChapts>9</numChapts>
+		<synopsis>Among the &quot;writing&quot; prophets Amos was the first of a new school, for, like Elijah and John the Baptist, he denounced sin with rustic boldness. A shepherd and native of Judah, he was called by God to prophesy to the northern kingdom of Israel during the reign of Jeroboam II (786-746 B.C.). Sparing no one, the prophet fearlessly announced the impending judgment of God. Although the dominant note of the book is judgment, the final words promise the restoration of a righteous remnant.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Obadiah</name>
+		<numChapts>1</numChapts>
+		<synopsis>This shortest of the prophetic books, containing only 21 verses, is a scathing denunciation of the Edomites, descendants of Esau, who from the beginning had been hostile to Israel. Its message is primarily one of destruction and doom for Edom. The latter part of the prophecy is concerned with the Day of the Lord when God’s judgment will be upon other nations as well as Edom and concludes with the promise that &quot;the kingdom shall be the Lord’s&quot;.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Jonah</name>
+		<numChapts>4</numChapts>
+		<synopsis>The Old Testament counterpart of John 3:16, this book declares the universality of God’s love embracing even pagan nations. Its authorship and historicity are disputed. If one is willing to accept the miraculous, there is no compelling reason to deny its historicity. There is a strong possibility that the book is about Jonah and not by him. The author relates how Jonah refused God’s call to preach to the people of Nineveh, his punishment for this disobedience, his ready response to a second summons, and his bitter complaint at God’s sparing the city following her repentance. Christ Himself alludes to Jonah when speaking of His own death and Resurrection (Matt. 12:39, 16:4; Luke 11:29-32).</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Micah</name>
+		<numChapts>7</numChapts>
+		<synopsis>The Prophet Micah was a younger contemporary of Isaiah and spoke at a time when conditions in Judah paralleled those in the northern kingdom of Israel during Amos’ day. Micah’s messages are strikingly similar to those of Amos: many of the same sins are denounced and the same rugged, direct, indignant, and convincing language is used. While announcing God’s certain judgment upon sin, he also spoke of a sure deliverance to come through the Messiah whose place of birth he predicts.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Nahum</name>
+		<numChapts>3</numChapts>
+		<synopsis>This book is a vivid prediction of the approaching downfall of Nineveh, the capital city of Assyria, one of the most warlike of the ancient heathen nations. Of the Prophet Nahum, whose name means &quot;consolation&quot; or &quot;comfort&quot;, little is known. His purpose was to comfort his people, long harassed by Assyria, with the promise that this cruel and oppressing people would soon meet destruction at God’s hand.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Habakkuk</name>
+		<numChapts>3</numChapts>
+		<synopsis>While this book is true prophecy, its method is quite different from other writings of the prophets. Dramatically constructed in the form of dialogue, this book contains the prophet’s complaints (questions) and God’s reply to them. In god’s answers Habakkuk discovers the doorway leading from questioning to affirmation, through which he enters into a faith that enables him to affirm, &quot;I will rejoice in the Lord… God, the Lord, is my strength.&quot;</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Zephaniah</name>
+		<numChapts>3</numChapts>
+		<synopsis>This book, though brief, is comprehensive, embracing the two great themes of prophetic teaching: judgment and salvation - both extending to all nations. In some great catastrophe of his day, perhaps the Scythian invasion (c. 626 B.C.), Zephaniah sees God’s terrible judgment upon the nations, including Judah. He exhorts the people to repent and assures them that God will dwell in the midst of a righteous remnant following repentance.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Haggai</name>
+		<numChapts>2</numChapts>
+		<synopsis>This book, the first among the writings of the post-Exilic prophets, consists of four prophecies delivered within the space of 4 months, some 15 years after the return of the first exiles to Jerusalem. Work on the second Temple has begun shortly after the exiles’ arrival, but had been delayed for almost two decades. Haggai comes forward with a series of timely and vigorous messages challenging the people to respond wholeheartedly to a noble task - rebuilding the House of God.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Zechariah</name>
+		<numChapts>14</numChapts>
+		<synopsis>Sometimes called the &quot;Apocalypse of the Old Testament&quot;, this book contains the messages of the Prophet Zechariah, a contemporary of Haggai. The main division of the book (1-8, 9-14) are noticeably dissimilar in both style and subject matter, a fact that has led some to assign the last division (9-14) to another author. The first eight chapters are primarily concerned with the rebuilding of the Temple, although the language used is highly symbolical. Chapters 9 to 14 deal with &quot;last things&quot;, the &quot;end time&quot;. Many Messianic references are found, and the writer foresees the Day of the Lord when Israel will be restored, the nations judged, and God’s kingdom triumphant.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Malachi</name>
+		<numChapts>4</numChapts>
+		<synopsis>The name of the last book of the Old Testament and of the Prophet whose oracles it contains. Malachi ( from Hebrew meaning &quot;my messenger&quot;) is an invaluable source concerning the Judaean Jews during the Persian period. Two themes are predomination: the sin and apostasy of Israel (1-2); and the coming judgment upon the faithless, with blessings promised for those who repent (3-4). The growing Messianic expectation in the Old Testament is apparent in Malachi by the announcement of God’s &quot;messenger of the covenant&quot;, by whose coming Israel will be purified and judged; and of the return of the Prophet Elijah who will proclaim the Day of the Lord.</synopsis>
+		<isOldTestament>true</isOldTestament>
+	</book>
+	<book>
+		<name>Matthew</name>
+		<numChapts>28</numChapts>
+		<synopsis>From at least the 2nd century A.D., the Gospel of Matthew has been ascribed to Matthew the publican, tax collector, and disciple. It is the most complete account of Jesus’ teachings and was written to convince the writer’s Jewish audience that Jesus was the Messiah descended from David, the One promised by the Old Testament Prophets. It is peculiarly the Gospel for Israel. The most significant teaching passages are the Sermon on the Mount (5-7) and the parable sections (especially Chapter 13).</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>Mark</name>
+		<numChapts>16</numChapts>
+		<synopsis>The Gospel of Mark, the shortest, is also held by most to be the first of the Gospels to be written. A tradition dating from the 2nd century ascribes this book to John Mark, a companion of Peter and also of Paul and Barnabas in their missionary endeavors. The preaching of Peter may well have been the source of most of Mark’s material. Mark accounts for the ministry of Jesus from His Baptism to His Ascension. Most commentaries agree that Mark’s purpose was neither biographical nor historical, but theological: to present Jesus as the Christ, the mighty worker rather than great teacher. Hence, Mark makes fewer references to the Parables and discourses, but meticulously records each of Jesus’ &quot;mighty works&quot; as evidence of His divine power. Mark contains 20 specific miracles and alludes to others. Bible scholars quite generally agree that Mark wrote his Gospel in Rome for the gentiles.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>Luke</name>
+		<numChapts>24</numChapts>
+		<synopsis>There is almost universal agreement that Luke, the &quot;beloved physician&quot; (Col. 4:14) who accompanied Paul on his missionary travels, was the author of the third Gospel. Luke wrote to present Jesus as the Universal Savior, the compassionate healer and teacher. His careful historical approach is revealed in the preface, which states that the author has traced &quot;all things from the very first&quot;. Unlike Mark, this author includes an account of the Virgin Birth, and unlike Matthew he extensively describes the Perean Ministry (Chapters 9-18).</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>John</name>
+		<numChapts>21</numChapts>
+		<synopsis>The Gospel of John endeavors to explain the mystery of the Person of Christ by the use of the term &quot;logos&quot; (word) and was written to confirm Christians in the belief that Jesus was the Christ, the Son of God. Its purpose is evangelical and is so stated in 20:31. John not only records events as do the other Gospels but also uniquely interprets the events by giving them spiritual meaning. The author makes significant use of such words as light, water, life, love, and bread. Traditionally the author of this Gospel is considered to have been John, the Beloved Disciple.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>Acts</name>
+		<numChapts>28</numChapts>
+		<synopsis>Addressed to a certain Theophilus, about whom nothing is known (1:1), the Book of Acts records the early history of the Apostolic Church. Beginning with the Ascension of Jesus to heaven, it traces the growth of Christianity in Palestine and its spread to Syria, Asia Minor, Greece, and eventually to Rome. The leading figure in the first chapters is Peter, who delivered the stirring sermon on the day of Pentecost (2). The greater part of the book, however, is devoted to the experiences of Paul and his companions during their missionary endeavors. The Book of Acts provides a useful background for study of the Pauline Epistles. The introduction (1:1) attests to a Lukan authorship.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>Romans</name>
+		<numChapts>16</numChapts>
+		<synopsis>This letter, the first in canonical order, but not the first of Paul’s Epistles, is the longest and the most influential of all the Apostle’s writings. Writing to Christians at Rome whom he hoped soon to visit, Paul presents to them his mature convictions concerning the Christian faith: the universality of sin; the impotence of the law as a means of salvation; the nature of God’s saving act in Christ, and its appropriation by faith. The letter closes with spiritual advice and some personal remarks.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>1 Corinthians</name>
+		<numChapts>16</numChapts>
+		<synopsis>This letter discusses doctrinal and ethical problems that were disturbing the Corinthian church, and presents a picture of the life of a particular local congregation in New Testament times. Writing from Ephesus, where he spent at lead three year, Paul addresses the Corinthian church concerning the significance of the new life in Christ, which should be demonstrated in the fellowship within the Church. He advises them regarding spiritual gifts (12), Christian love (13), and the meaning of the Resurrection (15).</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>2 Corinthians</name>
+		<numChapts>13</numChapts>
+		<synopsis>Often called &quot;the hard letter&quot;, this is an intensely personal letter. It recounts the difficulties and hardships Paul has endured in the service of Christ (10-13). The Apostle regards the Corinthians as his children in Christ.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>Galatians</name>
+		<numChapts>6</numChapts>
+		<synopsis>Paul’s letter addressed to the churches in Galatia is the great letter on Christian freedom; in it Paul attacks the Christians who wished to exalt the law. Galatians’ emphasis is similar to the theme of Paul’s letter to the Romans. The doctrinal section, as is typical of the Pauline format, is followed by an intensely practical section in Chapters five and six.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>Ephesians</name>
+		<numChapts>6</numChapts>
+		<synopsis>The Ephesian letter is one of Paul’s four &quot;Imprisonment Letters&quot; - Philippians, Colossians, and Philemon being the others. Although addressed to the church in Ephesus, this letter is generally believed to have been a circular discussing the believers’ exalted position through Christ, the Church as the body of Christ, her relationship to God, and practical implications of the Gospel.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>Philippians</name>
+		<numChapts>4</numChapts>
+		<synopsis>In this letter, which is a message of joy, Paul expresses his gratitude for the Philippians’ love and material assistance. The Epistle is uniquely significant because of its presentation of the humility of Jesus. Its practicality is also observed in Paul’s advice to Euodia and Syntyche.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>Colossians</name>
+		<numChapts>4</numChapts>
+		<synopsis>The Colossian letter is well known for its doctrine as well as for its brevity. In the letter, Paul insists upon the Lordship of Christ. Colossians has come under recent scrutiny because of its references, implied or actual, to incipient Gnosticism, a growing heresy in the Church.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>1 Thessalonians</name>
+		<numChapts>5</numChapts>
+		<synopsis>1 and 2 Thessalonians: These letters constitute what is probably the earliest writing of the Apostle Paul. There were written in A.D. 51-52, soon after the founding of the Thessalonian church, and give Paul’s answer, to some basic problems disturbing the Christians of Thessalonica. The major contributions are eschatological, investigating especially the events preceding and accompanying the return of Christ. The concern of Paul for his followers is apparent throughout.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>2 Thessalonians</name>
+		<numChapts>3</numChapts>
+		<synopsis>1 and 2 Thessalonians: These letters constitute what is probably the earliest writing of the Apostle Paul. There were written in A.D. 51-52, soon after the founding of the Thessalonian church, and give Paul’s answer, to some basic problems disturbing the Christians of Thessalonica. The major contributions are eschatological, investigating especially the events preceding and accompanying the return of Christ. The concern of Paul for his followers is apparent throughout.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>1 Timothy</name>
+		<numChapts>6</numChapts>
+		<synopsis>1 and 2 Timothy: Along with the letter to Titus, these writings are defined as &quot;pastoral epistles&quot;, which approach the material from the perspective of the minister, not of the Church. The letters to Timothy discuss such matters as the duties and qualifications of church officers, the inspirations of Scripture, the treatment of widows, and the expectation of a future reward.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>2 Timothy</name>
+		<numChapts>4</numChapts>
+		<synopsis>1 and 2 Timothy: Along with the letter to Titus, these writings are defined as &quot;pastoral epistles&quot;, which approach the material from the perspective of the minister, not of the Church. The letters to Timothy discuss such matters as the duties and qualifications of church officers, the inspirations of Scripture, the treatment of widows, and the expectation of a future reward.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>Titus</name>
+		<numChapts>3</numChapts>
+		<synopsis>This is a personal letter written by the Apostle Paul to a young minister whom he had left on Crete. Like the Timothy correspondence, the letter to Titus is practical and discusses the everyday problems confronted by a young minister. This letter is probably to be dated between the first and the second letters to Timothy.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>Philemon</name>
+		<numChapts>1</numChapts>
+		<synopsis>This shortest of all Paul’s letters was addressed to Philemon (although two other persons are included in the salutation). Paul entreats Philemon, the master of Onesimus, a runaway slave, to receive him back as a brother in Christ (16, 17). This very personal letter reveals not only the concern of the Apostle for a converted slave but also a practical demonstration of brotherhood in Christ, &quot;where there is neither bond (slave) nor free&quot;. (Gal 3:28)</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>Hebrews</name>
+		<numChapts>13</numChapts>
+		<synopsis>Although tradition ascribed Hebrews to Paul, it is now generally believed to have been written by someone other than the Apostle, but certainly someone who was acquainted with Paul’s teaching. The Epistle portrays Jesus, who performed the perfect sacrifice for the sins of the world, as the great High Priest of the line of Melchizedek (Gen. 14). The Bible’s only definition of faith occurs in this Epistle (Chap. 11) and is followed by the &quot;great line of splendor&quot; of the men of faith.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>James</name>
+		<numChapts>5</numChapts>
+		<synopsis>The author of this letter introduces himself as &quot;James, a servant of God and the Lord Jesus Christ&quot;. Four men in the New Testament bore this name but the writer of this Epistle is usually identified with James who was the leader of the church in Jerusalem. The letter is addressed to the &quot;the twelve tribes which are scattered abroad&quot;, and is the most Jewish in style and form of any of the New Testament books. It is not a treatise on Christian theology but rather a practical letter dealing with Christian ethics. James insists that works, not words, are the mark of a disciple.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>1 Peter</name>
+		<numChapts>5</numChapts>
+		<synopsis>The author describes himself as &quot;Peter an apostle of Jesus Christ&quot;, and there is no overriding reason to doubt the truth of his claim, although the beautiful Greek style employed has led some scholars to believe that the actual writing may have been done by an associate (probably a secretary). The contents breathe the spirit of Peter. His speeches recorded in Acts indicate a similar attitude toward persecution and suffering. The letter here reflects a time of suffering and trial. No doubt the widespread persecution of the Christians by the Roman authorities was the occasion of the &quot;fiery trial&quot; (4:12). The writer admonishes his readers to a life of purity, of godly living, and exhorts them to steadfastness and faithfulness.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>2 Peter</name>
+		<numChapts>3</numChapts>
+		<synopsis>This letter was a &quot;reminder&quot; to the readers of the truth of the Gospel, which they had received as against the attacks of false teachers who would pervert it. The author urges his hearers to remain steadfast even amidst persecution and reminds them that the Lord will keep His promises. He speaks of the &quot;day of the Lord&quot; (parousia) and of the necessity of keeping themselves &quot;without spot and blameless&quot; (3:14)</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>1 John</name>
+		<numChapts>5</numChapts>
+		<synopsis>1, 2, and 3 John: Three Johannine Epistles - I, II and III John - are included in the New Testament collection. These Epistles should probably be dated A.D. 90-95. John, the author of the Fourth Gospel, addresses the first one to an unidentified group. I John 5:13 indicates that the author writes in order that this group might know the certainty of eternal life. II John is addressed to an elect lady, either a church or perhaps a woman. III John is addressed to Gaius, a man commended for his hospitality.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>2 John</name>
+		<numChapts>1</numChapts>
+		<synopsis>1, 2, and 3 John: Three Johannine Epistles - I, II and III John - are included in the New Testament collection. These Epistles should probably be dated A.D. 90-95. John, the author of the Fourth Gospel, addresses the first one to an unidentified group. I John 5:13 indicates that the author writes in order that this group might know the certainty of eternal life. II John is addressed to an elect lady, either a church or perhaps a woman. III John is addressed to Gaius, a man commended for his hospitality.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>3 John</name>
+		<numChapts>1</numChapts>
+		<synopsis>1, 2, and 3 John: Three Johannine Epistles - I, II and III John - are included in the New Testament collection. These Epistles should probably be dated A.D. 90-95. John, the author of the Fourth Gospel, addresses the first one to an unidentified group. I John 5:13 indicates that the author writes in order that this group might know the certainty of eternal life. II John is addressed to an elect lady, either a church or perhaps a woman. III John is addressed to Gaius, a man commended for his hospitality.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>Jude</name>
+		<numChapts>1</numChapts>
+		<synopsis>The author of this short letter warns his readers against the dangers of apostasy, and points to the faithlessness of the Israelites as a reminder of God’s judgment. Surrounded as his readers were by moral corruption and apostacizing influences, the author urges them to &quot;contend for the faith&quot; (3), and in a closing benediction he commends them to the One &quot;who is able to keep you from falling&quot; (24). Both the similarity of this letter to II Peter and Jude’s use of non-Biblical sources (9,14,15) have been the subject of much discussion.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+	<book>
+		<name>Revelation</name>
+		<numChapts>22</numChapts>
+		<synopsis>This last book of the Bible identifies itself as &quot;the revelation of Jesus Christ&quot;, and its author is designated &quot;his servant John&quot; who was exiled to the Greek island of Patmos because of his faith. Traditionally, John is identified with the author of the Fourth Gospel. Addressed to seven historical churches in Asia Minor, the Book of Revelation was written to warn against spiritual indifference and to elicit courage under persecution. Because of the extensive use of symbolism and picturesque imagery, its interpretation has posed many problem for the student of the Bible. While recognizing the historical situation (Roman persecution) that elicited this writing, many interpreters look upon it as a prophecy depicting events that were to take place at the end of the age. The ultimate victory of Christ is the dominant theme of this book.</synopsis>
+		<isOldTestament>false</isOldTestament>
+	</book>
+</books>
