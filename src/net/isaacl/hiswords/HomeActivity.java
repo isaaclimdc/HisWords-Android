@@ -1,9 +1,13 @@
 package net.isaacl.hiswords;
 
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
+import android.view.View;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemLongClickListener;
 import android.widget.ListView;
 
 public class HomeActivity extends Activity {
@@ -22,6 +26,25 @@ public class HomeActivity extends Activity {
 	    // We get the ListView component from the layout
 	    ListView listView = (ListView)findViewById(R.id.booksListView);
 	    listView.setAdapter(adapter);
+	    
+	    listView.setOnItemLongClickListener(new OnItemLongClickListener() {
+            @Override
+            public boolean onItemLongClick(AdapterView<?> parent, View view, int position, long id) {
+            	BookAdapter adpt = (BookAdapter)parent.getAdapter();
+            	Book booksList[] = adpt.objects;
+            	Book selectedBook = booksList[position];
+                showAlertForBook(selectedBook);
+				return true;
+            }
+        });
+	}
+	
+	public void showAlertForBook(Book book) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle("Synopsis: " + book.name);
+        builder.setMessage(book.synopsis);
+        AlertDialog dialog = builder.create();
+        dialog.show();
 	}
 
 	@Override
