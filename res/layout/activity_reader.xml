@@ -1,47 +1,19 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
+	android:id="@+id/horizontalScrollView1"
+	android:layout_width="fill_parent"
     android:layout_height="match_parent"
-    android:background="#0099cc"
-    tools:context=".ReaderActivity" >
-
-    <!--
-         The primary full-screen view. This can be replaced with whatever view
-         is needed to present your content, e.g. VideoView, SurfaceView,
-         TextureView, etc.
-    -->
+	android:scrollbars="vertical" >
 
     <TextView
-        android:id="@+id/fullscreen_content"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:keepScreenOn="true"
-        android:text="@string/dummy_content"
-        android:textColor="#33b5e5"
-        android:textSize="50sp"
-        android:textStyle="bold" />
-
-    <!--
-         This FrameLayout insets its children based on system windows using
-         android:fitsSystemWindows.
-    -->
-
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:fitsSystemWindows="true" >
-
-        <LinearLayout
-            android:id="@+id/fullscreen_content_controls"
-            style="?buttonBarStyle"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="bottom|center_horizontal"
-            android:background="@color/black_overlay"
-            android:orientation="horizontal"
-            tools:ignore="UselessParent" >
-        </LinearLayout>
-    </FrameLayout>
-
-</FrameLayout>
+        android:id="@+id/reader_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="@string/loading_text"
+        android:textColor="#333"
+        android:textSize="16sp" />
+</ScrollView>
